@@ -1,0 +1,17 @@
+{
+   "event": "productReviews",
+   "ecommerce": {
+      "detail": {
+         "actionField": {
+            "list": "Product Reviews"
+         },
+         "products": [
+            {
+               "numOfReviews": "no reviews",
+               "averageRating": "no ratings"
+            }
+         ]
+      }
+   },
+   "gtm.uniqueEventId": 43
+}

@@ -1,0 +1,25 @@
+{
+   "event": "productDetail",
+   "ecommerce": {
+      "currencyCode": "SEK",
+      "detail": {
+         "actionField": {
+            "list": "Product Details"
+         },
+         "products": [
+            {
+               "id": "SNA4000-BLK-37",
+               "name": "Star High Tops, Black",
+               "price": 539.1,
+               "brand": "Star Nutrition Gear",
+               "category": "",
+               "variant": "undefined",
+               "isPartOfBundle": "false",
+               "isOnSale": "true",
+               "availability": "IN STOCK"
+            }
+         ]
+      }
+   },
+   "gtm.uniqueEventId": 5
+}

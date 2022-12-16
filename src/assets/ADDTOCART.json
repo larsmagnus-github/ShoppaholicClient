@@ -1,0 +1,20 @@
+{
+   "event": "addToCart",
+   "ecommerce": {
+      "currencyCode": "SEK",
+      "add": {
+         "products": [
+            {
+               "id": "575",
+               "name": "Whey-100, 1 kg",
+               "price": "279.00",
+               "brand": "Star Nutrition",
+               "category": "",
+               "variant": "Choklad",
+               "quantity": "1"
+            }
+         ]
+      }
+   },
+   "gtm.uniqueEventId": 76
+}

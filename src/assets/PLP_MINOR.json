@@ -1,0 +1,79 @@
+{
+   "event": "productImpression",
+   "ecommerce": {
+      "currencyCode": "SEK",
+      "impressions": [
+         {
+            "name": "Whey-100, 1 kg",
+            "id": "575R",
+            "price": "269",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 1
+         },
+         {
+            "name": "Whey-80 Mix&Match, 4x1kg",
+            "id": "SETW80MIX",
+            "price": "645",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "standard",
+            "list": "category-page",
+            "position": 2
+         },
+         {
+            "name": "100% Whey Gold Standard, 908 g",
+            "id": "6870R",
+            "price": "329",
+            "brand": "Optimum Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 3
+         },
+         {
+            "name": "Whey-80, 4 kg + Bonus Product!",
+            "id": "SETQW80B",
+            "price": "679",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "standard",
+            "list": "category-page",
+            "position": 4
+         },
+         {
+            "name": "Whey-80, 1 kg",
+            "id": "585R",
+            "price": "179",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 5
+         },
+         {
+            "name": "Whey-80, 4 kg",
+            "id": "5854R",
+            "price": "629",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 6
+         },
+         {
+            "name": "Creatine Monohydrate, 500 g",
+            "id": "609",
+            "price": "129",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 7
+         }
+      ]
+   },
+   "gtm.uniqueEventId": 14
+}

@@ -1,0 +1,369 @@
+{
+   "event": "productImpression",
+   "ecommerce": {
+      "currencyCode": "SEK",
+      "impressions": [
+         {
+            "name": "Whey-100, 1 kg",
+            "id": "575R",
+            "price": "269",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 1
+         },
+         {
+            "name": "Whey-80 Mix&Match, 4x1kg",
+            "id": "SETW80MIX",
+            "price": "645",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "standard",
+            "list": "category-page",
+            "position": 2
+         },
+         {
+            "name": "100% Whey Gold Standard, 908 g",
+            "id": "6870R",
+            "price": "329",
+            "brand": "Optimum Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 3
+         },
+         {
+            "name": "Whey-80, 4 kg + Bonus Product!",
+            "id": "SETQW80B",
+            "price": "679",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "standard",
+            "list": "category-page",
+            "position": 4
+         },
+         {
+            "name": "Whey-80, 1 kg",
+            "id": "585R",
+            "price": "179",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 5
+         },
+         {
+            "name": "Whey-80, 4 kg",
+            "id": "5854R",
+            "price": "629",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 6
+         },
+         {
+            "name": "Creatine Monohydrate, 500 g",
+            "id": "609",
+            "price": "129",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 7
+         },
+         {
+            "name": "Supreme Casein, 750g",
+            "id": "6896-1R",
+            "price": "179",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 8
+         },
+         {
+            "name": "Supreme PWO 250 g",
+            "id": "6677R",
+            "price": "249",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 9
+         },
+         {
+            "name": "Pea Protein Isolate, 1 kg",
+            "id": "9992R",
+            "price": "199",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 10
+         },
+         {
+            "name": "Soy Protein Isolate, 1 kg",
+            "id": "6321R",
+            "price": "199",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 11
+         },
+         {
+            "name": "Off the Hook, 525 g",
+            "id": "5888R",
+            "price": "349",
+            "brand": "Chained Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 12
+         },
+         {
+            "name": "Supreme Mass, 4050 g",
+            "id": "5701R",
+            "price": "349",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 13
+         },
+         {
+            "name": "15 x Goodlife, 50 g",
+            "id": "FP6519R",
+            "price": "126",
+            "brand": "Goodlife",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 14
+         },
+         {
+            "name": "Ultimate Diet Complex",
+            "id": "6514-1R",
+            "price": "199",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 15
+         },
+         {
+            "name": "12 x Star Nutrition Protein Bar, 55g",
+            "id": "FP887R",
+            "price": "189",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 16
+         },
+         {
+            "name": "Triple Whey, 1785 g + ZMA Hardcore, 160 kaps",
+            "id": "SETCHAINEDZMA2",
+            "price": "599",
+            "brand": "Chained Nutrition",
+            "category": null,
+            "variant": "standard",
+            "list": "category-page",
+            "position": 17
+         },
+         {
+            "name": "Ultimate BCAA, 285 g",
+            "id": "6663-1R",
+            "price": "199",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 18
+         },
+         {
+            "name": "Micellar Casein, 1560 g + ZMA Hardcore, 160 kaps",
+            "id": "SETCHAINEDZMA3",
+            "price": "599",
+            "brand": "Chained Nutrition",
+            "category": null,
+            "variant": "standard",
+            "list": "category-page",
+            "position": 19
+         },
+         {
+            "name": "Ultimate Ashwagandha, 120 caps",
+            "id": "6579",
+            "price": "199",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 20
+         },
+         {
+            "name": "Vegan Muscle Protein 1600 g + ZMA Hardcore, 160 kaps",
+            "id": "SETCHAINEDZMA1",
+            "price": "599",
+            "brand": "Chained Nutrition",
+            "category": null,
+            "variant": "standard",
+            "list": "category-page",
+            "position": 21
+         },
+         {
+            "name": "Supreme Mass, 1530 g",
+            "id": "570R",
+            "price": "149",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 22
+         },
+         {
+            "name": "BCAA Hardcore, 264 g",
+            "id": "6409-12R",
+            "price": "229",
+            "brand": "Chained Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 23
+         },
+         {
+            "name": "Supreme BCAA 250 g",
+            "id": "6692R",
+            "price": "189",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 24
+         },
+         {
+            "name": "Vitamins & Minerals Daily, 60 caps",
+            "id": "6381",
+            "price": "99",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 25
+         },
+         {
+            "name": "Ultimate Recovery Complex, 4 kg",
+            "id": "65371R",
+            "price": "589",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 26
+         },
+         {
+            "name": "Peanut Butter, 1 kg",
+            "id": "3031R",
+            "price": "89",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 27
+         },
+         {
+            "name": "Vitamin D3, 90 caps",
+            "id": "6598",
+            "price": "89",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 28
+         },
+         {
+            "name": "24 x Star Nutrition Amino Energy, 330 ml",
+            "id": "FP334R",
+            "price": "299",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 29
+         },
+         {
+            "name": "EAA Hardcore, 360 g",
+            "id": "6586-10R",
+            "price": "279",
+            "brand": "Chained Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 30
+         },
+         {
+            "name": "Flytande Äggvita, 1000 ml",
+            "id": "6887",
+            "price": "74",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 31
+         },
+         {
+            "name": "Ripped Pro, 60 caps",
+            "id": "6573",
+            "price": "299",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 32
+         },
+         {
+            "name": "Ultimate Omega-3, 80%, 90 caps",
+            "id": "66556",
+            "price": "199",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 33
+         },
+         {
+            "name": "Ultimate Omega-3, 90 caps, 35% 1000mg",
+            "id": "636",
+            "price": "99",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 34
+         },
+         {
+            "name": "Ultimate Magnesium, 90 caps",
+            "id": "6577",
+            "price": "89",
+            "brand": "Star Nutrition",
+            "category": null,
+            "variant": "variant",
+            "list": "category-page",
+            "position": 35
+         },
+         {
+            "name": "Unchained PWO, 500g",
+            "id": "67101R",
+            "price": "399",
+            "brand": "Chained Nutrition",
+            "category": null,
+            "variant": "master",
+            "list": "category-page",
+            "position": 36
+         }
+      ]
+   },
+   "gtm.uniqueEventId": 14
+}

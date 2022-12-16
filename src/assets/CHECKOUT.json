@@ -1,0 +1,23 @@
+{
+   "event": "checkout",
+   "ecommerce": {
+      "currencyCode": "SEK",
+      "checkout": {
+         "actionField": {
+            "step": 1
+         },
+         "products": [
+            {
+               "id": "575",
+               "name": "WHEY-100, 1 kg, Choklad",
+               "price": "279.00",
+               "brand": "Star Nutrition",
+               "category": "Vassleprotein",
+               "variant": "Choklad",
+               "quantity": "1"
+            }
+         ]
+      }
+   },
+   "gtm.uniqueEventId": 5
+}

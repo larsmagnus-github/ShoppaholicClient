@@ -1,0 +1,20 @@
+{
+   "event": "removeFromCart",
+   "ecommerce": {
+      "currencyCode": "SEK",
+      "remove": {
+         "products": [
+            {
+               "id": "6896-18",
+               "name": "Supreme Casein, 750g, Chocolate Peanut",
+               "price": "159.20",
+               "brand": "Star Nutrition",
+               "category": "Kaseinprotein",
+               "variant": "Chocolate Peanut",
+               "quantity": 1
+            }
+         ]
+      }
+   },
+   "gtm.uniqueEventId": 173
+}
